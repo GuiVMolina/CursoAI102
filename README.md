@@ -1,3 +1,7 @@
 # Azure AI Engineer Associate (AI-102) 🚀
 
 Este repositório contém meus estudos, anotações e implementações práticas focadas na preparação para o exame **AI-102: Designing and Implementing an Azure AI Solution**. O objetivo é dominar a integração de inteligência artificial em aplicações utilizando os serviços da Microsoft Azure.
+
+| Aula / Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| **[Aula05 - Language Service](https://github.com/GuiVMolina/LabAI102-Language)** | Processamento de Linguagem Natural (PLN), análise de sentimento, extração de entidades chave e tradução de texto com Azure AI. | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) |
